@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'merge_pal'
+MergePalApp.new.run

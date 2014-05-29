@@ -1,0 +1,5 @@
+
+
+Recording unit test; Status is 'UU' (prefix=, arguments=)
+[ foo                            ]  e)dit q)uite
+[ foo                            ]  e)dit q)uitq
